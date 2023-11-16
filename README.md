@@ -1,5 +1,5 @@
 # EXP-1 -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
-## date: 09.08.2023
+## Date: 09.08.2023
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
